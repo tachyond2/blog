@@ -1,0 +1,9 @@
+.c-tag {
+  display: inline-block;
+  min-width: 100px;
+  max-width: 250px;
+  text-overflow: ellipsis;
+  padding: 0.35rem 1rem;
+  border-radius: 100px;
+  text-align: center;
+}

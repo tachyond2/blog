@@ -1,0 +1,36 @@
+.wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: var(--header-height);
+  width: 100%;
+  max-width: var(--content-width);
+  padding: 0 var(--viewport-padding);
+  margin: 0 auto;
+}
+
+.action {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.action {
+  display: block;
+  width: 3rem;
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1000px;
+  color: var(--color-text);
+  cursor: pointer;
+  transition: background 2s;
+}
+
+.action:hover {
+  background: var(--color-decorative-100);
+}
+.action svg {
+  display: block;
+}
