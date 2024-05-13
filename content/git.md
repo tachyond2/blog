@@ -91,3 +91,30 @@ git diff master temp index.html
 .gitignore
 
 # git 传输协议
+
+# 多人维护相同分支,修改了不同文件
+
+# 修改了同一个文件的不同区域
+
+# 修改了同文件的相同区域
+
+# github 高级搜索
+
+# 工作流,分支
+
+github gitlab git flow
+environment branch
+feature branch
+
+# 分支集成策略
+
+merge strategies
+
+# 寻找优质开源项目和文档
+
+advanced search
+git pull
+
+# issue
+
+# 怎么把应用部署到
